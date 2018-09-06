@@ -1,0 +1,20 @@
+Abyssal				    BASE
+Doomknight Humanoid		BASE
+Dragon				    BASE
+Enchanted			    BASE
+Humanoid			    BASE
+Ooze				    BASE
+Undead Doom			    BASE
+Undead Spirit			BASE
+Seige				    TS
+Abyssal Malformed		TS
+Centaur				    TS
+Verminfolk Animal		TS
+Raider Humanoid			TS
+Basilisk Animal			HOD
+Abyssal Darkspawn		HOD
+Lizardfolk Humanoid		HOD
+Undead Spectral			HOD
+Spider Animal			HOD
+Dryad				    HOD
+Doppelaganger Humanoid	HOD

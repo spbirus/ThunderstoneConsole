@@ -1,0 +1,46 @@
+Arcane Energies			BASE
+Banish				    BASE
+Barkeep				    BASE
+Battle Fury			    BASE
+Feast				    BASE
+Fireball			    BASE
+Flaming Sword			BASE
+Goodberries			    BASE
+Hatchet				    BASE
+Lantern				    BASE
+Lightstone Gem			BASE
+Magical Aura			BASE
+Pawnbroker			    BASE
+Polearm				    BASE
+Short Sword			    BASE
+Spear				    BASE
+Town Gaurd			    BASE
+Trainer				    BASE
+Warhammer			    BASE
+Cursed Bow			    TS
+Thieves Blade			TS
+Highland Officer		TS
+Plaguesmiter			TS
+Scroll of Chaos			TS
+Elite Militia			TS
+PowerWord: Kill			TS
+Time Bend			    TS
+Insight Blade			TS
+Unicorn Steaks			TS
+Drill Sergeant			TS
+Stalking Spell			TS
+VIllage Mob			    TS
+Buiding Light			TS
+Village Thief			HOD
+Short Spear			    HOD
+Chalice Mace			HOD
+Grognard 			    HOD
+War Hero	        	HOD
+Belzur's Blessing 	   	HOD
+Bag of Holding 			HOD
+Swamp Provisions		HOD
+Dredging Net			HOD
+Jondul Bow		    	HOD
+Soulfire			    HOD
+Ritual of Cleansing		HOD
+Magma Hammer 			HOD
